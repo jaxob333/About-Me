@@ -26,5 +26,6 @@ give up when things seem rough and tough.
 Links:
 
 Page 1: [Beginnings](Beginnings.md)
+
 Page 3: [College](College.md)
 
