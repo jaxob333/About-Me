@@ -25,7 +25,13 @@ give up when things seem rough and tough.
 
 _Links:_
 
-Page 1: [Beginnings](Beginnings.md)
+Intro: [About-Me](README.md). 
 
-Page 3: [College](College.md)
+Page 1: [Beginnings](Beginnings.md).
+
+Page 3: [College](College.md).
+
+Page 4: [Coding](Coding.md).
+
+Page 5: [Hobbies](Hobbies.md).
 
