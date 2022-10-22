@@ -1,5 +1,7 @@
 **HOME PAGE**
 
+![Mississippi Image](https://image.cnbcfm.com/api/v1/image/107073039-1654714273136-gettyimages-185536462-000027204140_Double.jpeg?v=1654714302)
+
 Hello and welcome to an all about me info session.
 
 Click a link below to start. 
