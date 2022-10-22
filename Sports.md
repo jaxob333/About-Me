@@ -1,4 +1,4 @@
-#Sports
+# Sports
 
 I am an avid fan of sports. Sports is a big part of my life. My favorite sports are football,soccer and basketball. 
 I do watch a little of baseball but I am not much of a fan.
@@ -23,7 +23,7 @@ give up when things seem rough and tough.
 
 
 
-Links:
+_Links:_
 
 Page 1: [Beginnings](Beginnings.md)
 
