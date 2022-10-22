@@ -36,6 +36,8 @@ document.getElementById("demo").innerHTML = Math.random();
 
 _Links:_
 
+Intro: [About-Me](README.md). 
+
 Page 1: [Beginnings](Beginnings.md)
 
 Page 2: [Sports](Sports.md) 
