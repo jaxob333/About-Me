@@ -6,11 +6,11 @@ I feel like now would be a good time to link some address of some IT friendly si
 
 _Links:_
 
-1)https://www.w3schools.com/
+* https://www.w3schools.com/
 
-2)https://stackoverflow.com/
+* https://stackoverflow.com/
 
-3)https://www.geeksforgeeks.org/
+* https://www.geeksforgeeks.org/
 
 Intro: [About-Me](README.md)
 
