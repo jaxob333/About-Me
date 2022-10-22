@@ -1,7 +1,8 @@
 # Beginnings
 
 I am from the humble state of Mississippi.
-![Picture of Mississippi Flag](![image](https://user-images.githubusercontent.com/91273401/197325317-5e3c1968-5c4e-450a-bb0a-0c985d2ffec6.png)
+
+**Picture of Mississippi Flag**![image](https://user-images.githubusercontent.com/91273401/197325317-5e3c1968-5c4e-450a-bb0a-0c985d2ffec6.png)
 
 
 **Fun Fact**
@@ -12,7 +13,8 @@ I am from the humble state of Mississippi.
 
 
 
-Links:
+_Links:_
+
 Intro: [About-Me](README.md). 
 
 Page 2: [Sports](Sports.md).
