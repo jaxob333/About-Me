@@ -36,6 +36,14 @@ document.getElementById("demo").innerHTML = Math.random();
 
 _Links:_
 
+Page 1: [Beginnings](Beginnings.md)
+
+Page 2: [Sports](Sports.md) 
+
+Page 3: [College](College.md)
+
+Page 5: [Hobbies](Hobbies.md)
+
 
 
 
