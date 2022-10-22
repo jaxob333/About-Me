@@ -6,10 +6,10 @@ I am from the humble state of Mississippi.
 
 
 **Fun Fact**
-1) Mississippi was the 20th state to be admitted into the Union.
-2) Jim Henson the creator of the muppets was born in Greenville, Mississippi.
-3) Elvis Presley was born in the city of Tupelo, Mississippi. 
-4) Mississippi is the home of the Blues Music. 
+* Mississippi was the 20th state to be admitted into the Union.
+* Jim Henson the creator of the muppets was born in Greenville, Mississippi.
+* Elvis Presley was born in the city of Tupelo, Mississippi. 
+* Mississippi is the home of the Blues Music. 
 
 
 
