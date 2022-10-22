@@ -14,4 +14,4 @@ Page 3: [College](College.md)
 
 Page 4: [Coding](Coding.md)
 
-Page 5: [Goals](Goals.md)
+Page 5: [Hobbies](Hobbies.md)
