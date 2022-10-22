@@ -6,7 +6,7 @@ Click a link below to start.
 
 Links:
 
-Page 1: [My Beginnings](MyBeginnings)
+Page 1: [Beginnings](Beginnings)
 
 Page 2: [Sports](Sports) 
 
