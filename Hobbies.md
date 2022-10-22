@@ -13,3 +13,17 @@ I am a sophomore at the University of Missouri that is an IT Major that enjoys a
 Thank you for your time:)
 
 
+_Links:_
+
+Intro: [About-Me](README.md)
+
+Page 1: [Beginnings](Beginnings.md)
+
+Page 2: [Sports](Sports.md) 
+
+Page 3: [College](College.md)
+
+Page 4: [Coding](Coding.md)
+
+
+
