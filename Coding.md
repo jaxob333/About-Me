@@ -4,11 +4,11 @@ So far I have taken quite of bit of coding classes in college. Before I came to 
 
 Here are a list of some languages I have dabbled in since taking classes at Mizzou. 
 
-1) C
-2) Python
-3) HTML
-4) JavaScript
-5) C#
+* C
+* Python
+* HTML
+* JavaScript
+* C#
 
 Out of these five languages I am most comfortable with C# and Python. HTML and JavaScript are pretty decent with me but I am so terrible at C and can barely code anything in C. 
 
