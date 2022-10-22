@@ -1,4 +1,4 @@
-#Beginnings
+#Beginnings.md
 
 I am from the humble state of Mississippi.
 
@@ -9,9 +9,9 @@ I am from the humble state of Mississippi.
 *Mississippi is the home of the Blues Music. 
 
 
-https://upload.wikimedia.org/wikipedia/commons/3/3d/Nashville_SC_MLS_2020.svg
 
 Links:
-Intro:[About-Me](README.md)
-Page 2:[Sports](Sports.md)
-dd
+Intro: [About-Me](README.md)
+
+Page 2: [Sports](Sports.md)
+
